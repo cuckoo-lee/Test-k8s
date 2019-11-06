@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.1
-MAITAINER: cuckoo <cuckoo@163.com>
+MAITAINER: cuckoo <cuckoo_lee@163.com>
